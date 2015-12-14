@@ -9,7 +9,7 @@ body {
   text-align: center;
 font-family: 'Fjalla One', sans-serif;
   color: #222;
-  background-image: url('images/fiberbg.png');
+  background-image: ('images/fiberbg.png');
 
 }
 
