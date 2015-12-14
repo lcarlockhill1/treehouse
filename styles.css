@@ -9,7 +9,7 @@ body {
   text-align: center;
 font-family: 'Fjalla One', sans-serif;
   color: #222;
-  background-image: ('images/fiberbg.png');
+  background-image: url('images/fiberbg.png');
 
 }
 
@@ -193,6 +193,7 @@ a.social:hover {
       -ms-flex-pack: distribute;
       justify-content: space-around;
       margin: 0 auto;
+        background-color: #D6E0A2 ;
   }
 
   header {
@@ -206,6 +207,7 @@ a.social:hover {
 
 
   main {
+  
     padding-top: 20px;
   }
 
@@ -215,8 +217,9 @@ a.social:hover {
 
   footer {
     font-size: 1.3em;
-    max-width: 1200px;
+    max-width: 100%;
     margin: 40px auto;
+    background-color: #ffffff;
   }
 
 }
